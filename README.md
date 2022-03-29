@@ -1,3 +1,3 @@
 # Neural-Machine-Translation
 
-translate Indo to English
+translate English to Indo
